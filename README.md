@@ -8,8 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Run Tailwind Buil to build Tailwindcss
-Run Tailwind Watch to watch any changes
+Run Tailwind Buil to build Tailwindcss \
+Run Tailwind Watch to watch any changes \
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
